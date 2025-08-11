@@ -39,3 +39,24 @@ A report and visualizations showing completeness scores per page and a ranked li
 - More comprehensive pages that enhance public knowledge about Zambia.
 
 ---
+1.2 Assess Situation
+
+**Resources:**
+- Wikipedia API for content retrieval
+- Python environment (Google Colab/Jupyter Notebook)
+- Libraries: `wikipedia-api`, `pandas`, `matplotlib`, `seaborn`
+- Team members with skills in programming, data processing, and visualization
+
+**Constraints:**
+- Analysis is limited to structure, not factual accuracy
+- Wikipedia content changes frequently, affecting reproducibility
+
+**Risks:**
+- API rate limits or downtime
+- Variation in page structures
+- Possible mismatch between our template and Wikipedia editorial norms
+
+**Assumptions:**
+- Selected standard template reflects an ideal structure for general topic pages
+- Wikipedia API will remain stable during the project timeline
+
