@@ -60,3 +60,23 @@ A report and visualizations showing completeness scores per page and a ranked li
 - Selected standard template reflects an ideal structure for general topic pages
 - Wikipedia API will remain stable during the project timeline
 
+---
+
+## 1.3 Determine Data Mining Goals
+
+**Overall Data Mining Objective:**
+Translate the business objective of improving Zambia’s Wikipedia representation into a technical process that measures completeness.
+
+**Specific Data Mining Goals:**
+1. Extract section headings from selected Zambia-related Wikipedia pages using the Wikipedia API.
+2. Pre-process and normalize section titles for accurate comparison.
+3. Compare the extracted structure against a predefined standard section template.
+4. Calculate a completeness score for each page.
+5. Identify and rank the most frequently missing sections across all pages.
+
+**Data Mining Success Criteria (Technical):**
+- 100% accuracy in detecting section presence/absence compared to manual verification for at least 2 sample pages.
+- Completeness scores computed without data loss or parsing errors.
+- Identification of at least 3 consistently missing sections across all pages.
+
+---
