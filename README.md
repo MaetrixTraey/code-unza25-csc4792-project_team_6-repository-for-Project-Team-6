@@ -80,3 +80,37 @@ Translate the business objective of improving Zambia’s Wikipedia representatio
 - Identification of at least 3 consistently missing sections across all pages.
 
 ---
+**High-Level Timeline & Phases:**
+
+### High-Level Timeline & Phases
+
+| **Phase** | **Description** | **Deliverable** |
+|-----------|-----------------|-----------------|
+| **1. Business Understanding** | Define problem, goals, and success criteria | BU section in Notebook + `README.md` |
+| **2. Data Understanding** | Explore data from 1–2 sample pages, check section structure | Sample raw data, API test results |
+| **3. Data Preparation** | Clean, normalize, and structure data for scoring | Preprocessed data CSV |
+| **4. Modelling** | Implement completeness scoring algorithm | Scoring function, results table |
+| **5. Evaluation** | Verify accuracy by manual inspection of sample pages | Validation notes |
+| **6. Deployment** | Finalize report, visualizations, and presentation | ACM report, slides, GitHub repo |
+
+
+**Initial Assessment of Tools and Techniques**
+
+- **Data Collection**:  
+  - Wikipedia API  
+
+- **Text Processing**:  
+  - Natural Language Processing libraries
+
+- **Analysis**:  
+  - Python pandas  
+  - scikit-learn for classification  
+
+- **Visualization**:  
+  - matplotlib  
+  - seaborn for presenting findings  
+
+- **Version Control**:  
+  - GitHub with tagged commits
+
+---
