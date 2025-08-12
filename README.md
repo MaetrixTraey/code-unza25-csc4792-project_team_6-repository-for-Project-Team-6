@@ -39,7 +39,7 @@ A report and visualizations showing completeness scores per page and a ranked li
 - More comprehensive pages that enhance public knowledge about Zambia.
 
 ---
-1.2 Assess Situation
+## 1.2 Assess Situation
 
 **Resources:**
 - Wikipedia API for content retrieval
@@ -80,7 +80,7 @@ Translate the business objective of improving Zambia’s Wikipedia representatio
 - Identification of at least 3 consistently missing sections across all pages.
 
 ---
-**High-Level Timeline & Phases:**
+## 1.4 High-Level Timeline & Phases:
 
 ### High-Level Timeline & Phases
 
@@ -114,3 +114,14 @@ Translate the business objective of improving Zambia’s Wikipedia representatio
   - GitHub with tagged commits
 
 ---
+## 1.5 Cost And Benefit Analysis
+
+**Costs:**
+- Time investment in coding, testing, and documentation.
+- Limited API calls if rate-limiting occurs (minor for our dataset size).
+
+**Benefits:**
+- Provides actionable insights to improve Zambia’s online representation.
+- Lightweight, reproducible method for other countries or topics.
+- Can be automated to run periodically for continuous monitoring.
+
