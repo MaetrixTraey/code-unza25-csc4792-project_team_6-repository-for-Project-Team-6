@@ -165,7 +165,7 @@ We aim to:
 
 # 2.4. verfication of Data Quality
 
-##2.5. Summary of Initial Findings
+# 2.5. Summary of Initial Findings
 
 In our initial analysis, we loaded a dataset containing all the Wikipedia pages about the provinces in Zambia. Upon describing the data, we observed the following:
 
