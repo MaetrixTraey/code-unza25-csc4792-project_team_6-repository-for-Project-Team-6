@@ -125,3 +125,21 @@ Translate the business objective of improving Zambia’s Wikipedia representatio
 - Lightweight, reproducible method for other countries or topics.
 - Can be automated to run periodically for continuous monitoring.
 
+# 2. Data Understanding
+
+## Objective
+The objective of this phase is to perform an initial exploration of our dataset(s).  
+We aim to:
+- Get a "feel" for the data,
+- Identify its main characteristics,
+- Spot potential quality issues,
+- Prepare for data cleaning and transformation in the next phase.
+
+---
+
+# 2.1. Initial Data Collection
+
+### Interpretation of initial data collection sectiom
+- Installs the Wikipedia API library.  
+- Imports Wikipedia API and pandas.  
+- Initializes a Wikipedia API object in English with a custom user agent.  
