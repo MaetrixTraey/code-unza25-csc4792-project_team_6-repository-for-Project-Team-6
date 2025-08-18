@@ -143,3 +143,4 @@ We aim to:
 - Installs the Wikipedia API library.  
 - Imports Wikipedia API and pandas.  
 - Initializes a Wikipedia API object in English with a custom user agent.  
+# 2.4. verfication of Data Quality
