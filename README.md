@@ -142,5 +142,25 @@ We aim to:
 ### Interpretation of initial data collection sectiom
 - Installs the Wikipedia API library.  
 - Imports Wikipedia API and pandas.  
-- Initializes a Wikipedia API object in English with a custom user agent.  
+- Initializes a Wikipedia API object in English with a custom user agent.
+- Defines a function to extract all sections (with hierarchy levels) from a Wikipedia page.  
+- Collects sections from Wikipedia pages of Zambian provinces.  
+- Stores the extracted data (province, section title, depth) in a list.  
+- Converts the list into a DataFrame and saves it as a CSV file.  
+- Displays the first 20 rows of the DataFrame. ##
+
+# 2.2. Data Description
+- Checks the dataset’s shape (rows and columns).  
+- Prints dataset information (column types and non-null counts).  
+- Shows descriptive statistics for numeric columns.  
+- Displays the first 10 rows.  
+- Counts unique provinces and unique sections.
+
+# 2.3. Data Exploration
+- Imports Matplotlib and Seaborn for visualization.  
+- Plots a histogram showing how section depths are distributed across the dataset.  
+- The horizontal bar chart shows the number of sections for each Zambian province page.
+- Identifies the 20 most frequent section titles across all provinces.  
+- A horizontal bar chart showing their frequencies.
+
 # 2.4. verfication of Data Quality
