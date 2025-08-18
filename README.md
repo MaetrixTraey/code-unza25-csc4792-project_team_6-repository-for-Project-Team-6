@@ -164,3 +164,15 @@ We aim to:
 - A horizontal bar chart showing their frequencies.
 
 # 2.4. verfication of Data Quality
+
+##2.5. Summary of Initial Findings
+
+In our initial analysis, we loaded a dataset containing all the Wikipedia pages about the provinces in Zambia. Upon describing the data, we observed the following:
+
+- **Depth of Pages:** Most Wikipedia pages on the provinces had a depth of 2, indicating that sub-sections were limited.
+- **Section Naming Variability:** Some sections had different naming conventions across pages, which may appear as anomalies in the analysis.
+- **Number of Sections by Province:**
+  - **Central Province:** 12 sections (most sections in the dataset)
+  - **Western Province:** 12 sections
+  - **Copperbelt Province:** 8 sections (least sections in the dataset)
+- **Missing Sections:** The quality report noted that Central and Southern Provinces had the most missing common sections (2 missing sections each), which is an anomaly considering that Central Province has the highest number of sections in the dataset.
