@@ -178,6 +178,10 @@ In our initial analysis, we loaded a dataset containing all the Wikipedia pages 
 - **Missing Sections:** The quality report noted that Central and Southern Provinces had the most missing common sections (2 missing sections each), which is an anomaly considering that Central Province has the highest number of sections in the dataset.
 
   ---
-#3. Data Preparation
+# 3. Data Preparation
+
 ## 3.1 Data Loading
 Phase where we loaded the data collected in the previous stage
+
+## 3.6 Complete Data Preparation Pipeline
+Here we Put together an executable pipeline
