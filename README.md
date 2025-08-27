@@ -182,6 +182,7 @@ In our initial analysis, we loaded a dataset containing all the Wikipedia pages 
 
 ## 3.1 Data Loading
 Phase where we loaded the data collected in the previous stage
-
+## 3.2  Filtering Non-Informative Headers
+Not all section headers are meaningful for our analysis. We filter out administrative and navigation sections
 ## 3.6 Complete Data Preparation Pipeline
 Here we Put together an executable pipeline
