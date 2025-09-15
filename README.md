@@ -208,3 +208,7 @@ To identify structural gaps in Zambian Wikipedia articles by finding sections th
 **Success Criteria:**  
 The project is successful if we can produce a data-driven, ranked list of such sections.
 
+**Evaluation:**  
+Our Random Forest model successfully distinguished between article classes with ~90% accuracy, proving that a structural difference exists. The feature importance from this model provided a ranked list of the most discriminative sections.  
+
+Our final analysis calculated the **prevalence gap** for these top sections between the two article categories.
