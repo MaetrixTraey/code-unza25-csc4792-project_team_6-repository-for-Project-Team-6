@@ -212,3 +212,17 @@ The project is successful if we can produce a data-driven, ranked list of such s
 Our Random Forest model successfully distinguished between article classes with ~90% accuracy, proving that a structural difference exists. The feature importance from this model provided a ranked list of the most discriminative sections.  
 
 Our final analysis calculated the **prevalence gap** for these top sections between the two article categories.
+
+# 6. Deployment
+### 6.1. Project Summary and Findings
+
+This project followed the CRISP-DM methodology to analyze the structure of Zambian Wikipedia articles with the goal of identifying common missing sections compared to a benchmark of high-quality "Featured" articles.
+
+**Data Collection & Preparation:** We successfully collected and prepared a dataset of 227 Zambian articles and 400 Featured articles. We extracted, cleaned, and vectorized the section headers using TF-IDF for modeling.  
+
+**Modeling:** We trained three classification models. The Random Forest Classifier was selected as the final, best-performing model, achieving approximately 90% accuracy in distinguishing between the two article categories based solely on their section structure.  
+
+**Key Insight:** The most valuable result from the Random Forest model was its feature importances, which gave us a data-driven list of the sections most characteristic of a high-quality article. Our final evaluation analysis compared the prevalence of these top sections and identified a clear "content gap." Sections like *histori* (history), *recept* (reception), *legaci* (legacy), and *background* were found to be significantly more common in Featured articles than in Zambian articles.  
+
+---
+
