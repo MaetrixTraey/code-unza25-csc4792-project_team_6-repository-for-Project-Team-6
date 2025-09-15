@@ -194,3 +194,7 @@ Not all section headers are meaningful for our analysis. We filter out administr
 #### Setup and Data Loading.
 #### 4.1. Association Rule Mining (Apriori).
 #### 4.2. Supervised Classification
+##### 4.2.1. Decision Tree Classifier
+##### 4.2.2. Random Forest Classifier
+##### 4.2.2. Random Forest Classifier
+##### 4.2.3. k-Nearest Neighbors (k-NN) Classifier
