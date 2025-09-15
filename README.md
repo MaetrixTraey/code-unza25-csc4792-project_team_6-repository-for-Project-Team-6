@@ -191,6 +191,6 @@ Here we Put together an executable pipeline
 Not all section headers are meaningful for our analysis. We filter out administrative and navigation sections
 
 # 4. Modeling
-#### Setup and Data Loading
+#### Setup and Data Loading.
 #### 4.1. Association Rule Mining (Apriori)
 #### 4.2. Supervised Classification
