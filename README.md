@@ -202,3 +202,9 @@ Not all section headers are meaningful for our analysis. We filter out administr
 
 # 5. Evaluation
 #### 5.1 Evaluation of results and key findings
+**Project Objective:**  
+To identify structural gaps in Zambian Wikipedia articles by finding sections that are common in high-quality *Featured* articles but frequently missing from Zambian ones.
+
+**Success Criteria:**  
+The project is successful if we can produce a data-driven, ranked list of such sections.
+
