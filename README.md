@@ -189,3 +189,6 @@ phase where each article was converted to a binary vector representation
 ## 3.6 Complete Data Preparation Pipeline
 Here we Put together an executable pipeline
 Not all section headers are meaningful for our analysis. We filter out administrative and navigation sections
+
+# 4. Modeling
+#### Setup and Data Loading
